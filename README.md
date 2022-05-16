@@ -1,6 +1,27 @@
-<div>
-<a href="https://github.com/jejesny">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?jejesny=jejesny&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?jejesny=jejesny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<![Snake animation](https://github.com/jejesny/jejesny/blob/output/github-contribution-grid-snake.svg)/>
+## Jéssica Adeliny
+<div align="center">
+  <a href="https://github.com/jejesny">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jejesny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jejesny&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="jejesny-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="jejesny-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="jejesny-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="jejesny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="jejesny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="jejesny-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="jejesny-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="jejesny-pic" height="150" style="border-radius:50px;" src="https://www.instagram.com/p/CdoVFqlJ9N-/">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://m.youtube.com/channel/UCB29riGjzGO21ZRAsPxDiTw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/jessicaadeliny" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/j%C3%A9ssica-adeliny-soares-sanglard-51a74513b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
