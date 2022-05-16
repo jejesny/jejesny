@@ -9,7 +9,6 @@
   <img align="center" alt="jejesny-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="jejesny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jejesny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="jejesny-pic" height="150" style="border-radius:50px;" src="https://www.instagram.com/p/CdoVFqlJ9N-/">
 </div>
   
   ##
